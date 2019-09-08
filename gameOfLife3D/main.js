@@ -1,7 +1,7 @@
 window.addEventListener('load', init);
 function init() {
 
-    const CELL_SIZE = 25;
+    const CELL_SIZE = 20;
     const GENERATE_PROBABILITY = 0.25;
 
 
